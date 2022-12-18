@@ -1,0 +1,5 @@
+project: gomedia
+target: gomedia
+
+cmds:
+  - cmd: /fuzzMp4demux @@
